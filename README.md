@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Ibrahim Cheena
+# 👋 Hi there! I'm Ibrahim Yusuf Cheena
 
 ## 🎓 About Me
 A versatile Software Engineer with a robust background in web development, full-stack technologies, and a passion for creating high-performance software solutions. My technical journey spans advanced software engineering, perception technologies, and innovative development approaches.
@@ -51,13 +51,6 @@ A versatile Software Engineer with a robust background in web development, full-
 - Contributed to backend infrastructure using Django
 - Established RESTful API endpoints for seamless data flow
 
-## 🎥 Content Creation
-### Ibrahim Cheena Vlogs
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1gA5de-JTDu3Rogp-f8UTA)
-- Creating engaging content exploring technology, software engineering, and personal experiences
-- Sharing insights into software development, coding journey, and tech innovations
-- Providing behind-the-scenes looks at software engineering and personal growth
-
 ## 🛠️ Technical Skills
 
 ### 📝 Programming Languages
@@ -78,6 +71,20 @@ A versatile Software Engineer with a robust background in web development, full-
 - K. C. Mahindra Fellow (Top 3 out of 59 awardees)
 - All India Rank 363 in JEE Advanced (Top 0.25% among 150,000 candidates)
 - Teaching Assistant at California State University Monterey Bay
+
+## 📜 Professional Training
+- **Python 3.4.3 Training** | Indian Institute of Technology, Bombay | September 2023
+- **Blender Training** | Indian Institute of Technology, Bombay | February 2023
+- **Advanced C++ Training** | Indian Institute of Technology, Bombay | September 2022
+- **RDBMS PostgreSQL Training** | Indian Institute of Technology, Bombay | September 2022
+- **HTML Training** | Indian Institute of Technology, Bombay
+
+## 🎥 Content Creation
+### Ibrahim Cheena Vlogs
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1gA5de-JTDu3Rogp-f8UTA)
+- Creating engaging content exploring technology, software engineering, and personal experiences
+- Sharing insights into software development, coding journey, and tech innovations
+- Providing behind-the-scenes looks at software engineering and personal growth
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahimcheena/)
