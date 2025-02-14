@@ -6,7 +6,7 @@ A versatile Software Engineer with a robust background in web development, full-
 ## 📚 Education
 ### California State University Monterey Bay
 **Bachelor of Science in Computer Science** | Aug '23 - Dec '24
-- GPA: 3.925/4.0
+- GPA: 3.746/4.0
 - Key Courses: Data Structures/Algorithms, Software Development, Software Design
 - Advanced Focus: Performance Optimization and System Architecture
 
