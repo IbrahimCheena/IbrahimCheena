@@ -17,7 +17,18 @@ A versatile Software Engineer with a robust background in web development, full-
 
 ## 💼 Professional Experience
 
-### 🚀 Software Engineer at Olympiah | Oct '24 - Current
+### 🏢 Software Engineer at Insure123 Insurance Agency Inc. | Apr '25 - Current
+
+- Designed and developed comprehensive Sales CRM platform for insurance agents using Java + Spring Boot
+- Integrated MySQL databases and RESTful APIs, enabling management of 5k+ customer profiles
+- Implemented full-stack workflows with React.js, TypeScript, HTML, CSS, and Tailwind CSS
+- Improved agent productivity by 40% through enhanced usability and streamlined workflows
+- Enhanced API performance, reducing average response time by 35%
+- Debugged and resolved production issues across distributed services
+- Integrated analytics dashboards and visualization tools for customer data insights
+- Achieved 50% increase in platform adoption rate among insurance agents
+
+### 🚀 Software Engineer at Olympiah | Oct '24 - Mar '25
 - Developed and optimized web platform using React.js, Node.js, and Express.js
 - Enhanced system scalability, achieving 30% increase in user engagement
 - Implemented data-driven solutions with advanced complexity analysis
@@ -30,13 +41,6 @@ A versatile Software Engineer with a robust background in web development, full-
 - Implemented advanced testing strategies with Playwright
 - Developed modular, efficient software architectures
 - Applied C++ optimization techniques to enhance system performance
-
-### 🔬 Perception Engineering Research
-- Developed advanced spatial data processing algorithms
-- Implemented point cloud analysis techniques using C++ and modern computational methods
-- Explored sensor fusion methodologies for enhanced environmental recognition
-- Applied runtime optimization techniques including SIMD vectorization and cache-friendly development
-- Conducted research on 3D geometry processing and non-linear computational models
 
 ### 🌐 Student Web Developer at CSUMB | Aug '23 - May '24
 - Enhanced Associated Students' website frontend
