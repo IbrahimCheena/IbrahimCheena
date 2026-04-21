@@ -49,12 +49,6 @@ A versatile Software Engineer with a robust background in web development, full-
 - Increased student engagement by 25%
 - Applied performance optimization principles learned from system-level programming
 
-### 🦊 Software Developer at Mozilla FireFox | May '21 - May '23
-- Developed advertising solutions for AMO extensions site using React
-- Revolutionized platform UI, reducing loading times by 50%
-- Contributed to backend infrastructure using Django
-- Established RESTful API endpoints for seamless data flow
-
 ## 🛠️ Technical Skills
 
 ### 📝 Programming Languages
